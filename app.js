@@ -73,7 +73,6 @@ App({
             }
         })
     },
-
     getUserInfo: function(cb) {
         var that = this
         if (this.globalData.userInfo) {
@@ -85,7 +84,6 @@ App({
                         success: function(res) {
                             that.globalData.userInfo = res.userInfo;
                             typeof cb == "function" && cb(that.globalData.userInfo);
-
 
 
 
