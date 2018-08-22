@@ -29,6 +29,8 @@ App({
                                         console.log(that.globalData.userId);
                                     } else {
                                         console.log("解密失败");
+
+
                                     }
                                 },
                                 fail: function() {
