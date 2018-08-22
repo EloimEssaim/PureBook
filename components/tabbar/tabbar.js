@@ -10,6 +10,7 @@ function tabbarinit() {
         },
         {
             "current": 0,
+
             "pagePath": "../../pages/bookExcerpt/bookExcerpt",
             "iconPath": "../../images/Excerpt.png",
             "selectedIconPath": "../../images/ExcerptSelected.png",
