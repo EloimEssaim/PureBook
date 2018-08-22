@@ -9,6 +9,9 @@ function tabbarinit() {
             "text": "Introduction"
         },
         {
+
+
+
             "current": 0,
 
             "pagePath": "../../pages/bookExcerpt/bookExcerpt",
