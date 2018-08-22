@@ -14,10 +14,6 @@ function tabbarinit() {
             "iconPath": "../../images/Excerpt.png",
             "selectedIconPath": "../../images/ExcerptSelected.png",
             "text": "Excerpt"
-
-
-
-
         },
         {
             "current": 0,
@@ -25,6 +21,11 @@ function tabbarinit() {
             "iconPath": "../../images/Review.png",
             "selectedIconPath": "../../images/ReviewSelected.png",
             "text": "Review"
+
+
+
+
+
 
 
 
